@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Смешарики. Персонажи</title>
-    <link>http://localhost:1313/webdev24-hugo/posts/</link>
+    <link>https://zhora1.github.io/webdev24-hugo/posts/</link>
     <description>Recent content in Posts on Смешарики. Персонажи</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 06 Oct 2024 23:00:36 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/webdev24-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhora1.github.io/webdev24-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Персонажи мультсериала &#34;Смешарики&#34;. Вступление</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/introduction/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/introduction/</link>
       <pubDate>Sun, 06 Oct 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/introduction/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/introduction/</guid>
       <description>&lt;h2 id=&#34;вступление&#34;&gt;Вступление&lt;/h2&gt;&#xA;&lt;p&gt;В сериале представлены герои трёх возрастных групп — дети-подростки (Крош, Ёжик, Нюша, Бараш), взрослые (Лосяш, Пин), и пожилые (Кар Карыч, Совунья, Копатыч). Есть также дополнительные персонажи, о них тоже в этой статье. Есть и персонажи, которые были нарисованы, но в сериал не вошли - о них написано в основной статье про Смешариков по ссылке выше.&lt;/p&gt;&#xA;&lt;p&gt;Герои Смешариков не похожи друг на друга, у каждого есть свой характер, свои умения, взгляд на мир и увлечения. Среди смешариков нет отрицательных героев, как это часто бывает в других мультфильмах. Смешарики очень дружны, они любят ходить в гости друг к другу, все праздники они празднуют вместе, а если у одного из Смешариков случается беда, все ему помогают.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Крош</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/krosh/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/krosh/</link>
       <pubDate>Sat, 05 Oct 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/krosh/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/krosh/</guid>
       <description>&lt;h2 id=&#34;крош-персонаж&#34;&gt;Крош. Персонаж&lt;/h2&gt;&#xA;&lt;p&gt;Крош — персонаж анимационного сериала «Смешарики».&lt;/p&gt;&#xA;&lt;p&gt;Описание персонажа:&lt;/p&gt;&#xA;&lt;p&gt;жизнерадостный, подвижный, никогда не унывающий кролик бирюзового окраса с длинными ушами и раскосыми глазами;&#xA;оптимистичен, ведёт активный образ жизни;&#xA;крайне общителен, состоит в дружеских отношениях со сверстниками и с частью взрослого населения;&#xA;довольно часто выступает заводилой и инициатором невероятных авантюр, но при этом никогда не теряет чувства юмора;&#xA;может быть чутким и внимательным;&#xA;крайне заботлив, он всегда переживает за других, это проявляется в особо опасных случаях.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ёжик</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/yozhik/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/yozhik/</link>
       <pubDate>Fri, 04 Oct 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/yozhik/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/yozhik/</guid>
       <description>&lt;h2 id=&#34;ёжик-персонаж&#34;&gt;Ёжик. Персонаж&lt;/h2&gt;&#xA;&lt;p&gt;Ёжик — один из главных персонажей мультипликационной франшизы «Смешарики». Застенчивый ёж мужского пола, живущий в стране смешариков.&lt;/p&gt;&#xA;&lt;p&gt;Некоторые характеристики персонажа:&lt;/p&gt;&#xA;&lt;p&gt;Воспитанный и интеллигентный. Предпочитает тихие игры и чтение умных книг. Носит круглые очки в старомодной толстой оправе и практически не имеет вредных привычек.&#xA;Домик Ёжика построен в форме гриба, в нём царит идеальный порядок, а книги расставлены на полках по алфавиту. Вокруг дома разбит яблоневый садик.&#xA;Ёжик — большой ценитель прекрасного и любитель различных древностей и раритетов. Страстный коллекционер: собирает кактусы и фантики от конфет.&#xA;Очень отзывчивый, добрый, впечатлительный, обладает богатым воображением. Ёжик верит в существование Деда Мороза.&#xA;Часто становится участником авантюр своего лучшего друга Кроша, во время которых оба попадают в различные переделки.&#xA;Ёжик и Крош — самые младшие смешарики.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Нюша</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/nyusha/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/nyusha/</link>
       <pubDate>Thu, 03 Oct 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/nyusha/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/nyusha/</guid>
       <description>&lt;h2 id=&#34;нюша-персонаж&#34;&gt;Нюша. Персонаж&lt;/h2&gt;&#xA;&lt;p&gt;Нюша — персонаж анимационного сериала «Смешарики».&lt;/p&gt;&#xA;&lt;p&gt;Нюша — симпатичная юная свинка розового цвета. Она романтична, впечатлительна, доверчива и мечтательна. Нюша верит в добрые сказки, а в злые старается не верить.&lt;/p&gt;&#xA;&lt;p&gt;Она серьёзно относится к своей внешности, любит новые наряды и красивые безделушки, следит за модой. Её дом наполнен розовыми блокнотами, бантиками, мягкими игрушками и другими милыми девичьему сердцу мелочами.&lt;/p&gt;&#xA;&lt;p&gt;Нюша жизнерадостна, энергична и обладает хорошей спортивной подготовкой. Она любит принимать гостей и угощать их чем-нибудь вкусным.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Бараш</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/barash/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/barash/</link>
       <pubDate>Wed, 02 Oct 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/barash/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/barash/</guid>
       <description>&lt;h2 id=&#34;бараш-персонаж&#34;&gt;Бараш. Персонаж&lt;/h2&gt;&#xA;&lt;p&gt;Бараш — один из главных персонажей мультипликационной франшизы «Смешарики», сентиментальный меланхоличный баран-романтик и поэт-лирик.&lt;/p&gt;&#xA;&lt;p&gt;У Бараша голубые глаза и сиреневая, очень пушистая, приятная на ощупь шёрстка. Также Бараш имеет красивые нежно-фиолетовые витые рога и копытца.&lt;/p&gt;&#xA;&lt;p&gt;Бараш — легко ранимый, в трудной ситуации он даже может заплакать. Но он не желает, да и не способен причинить кому-нибудь зла. Всячески пытается выразить свою любовь к Нюше, хоть она и редко отвечает ему взаимностью.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Совунья</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/sovunya/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/sovunya/</link>
       <pubDate>Tue, 01 Oct 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/sovunya/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/sovunya/</guid>
       <description>&lt;h2 id=&#34;совунья-персонаж&#34;&gt;Совунья. Персонаж&lt;/h2&gt;&#xA;&lt;p&gt;Совунья — одна из главных героинь мультсериала «Смешарики», старая и мудрая сова, которая одновременно и главная спортсменка, и главный врач страны смешариков.&lt;/p&gt;&#xA;&lt;p&gt;Совунья поддерживает порядок в долине. Она одновременно и повар, и рукодельница, и единственный врач (лечит все болезни героев — от зубной боли до простуды). Сова наставляет младших Смешариков и даёт им советы, но порой она бывает излишне настойчивой и назидательной.&lt;/p&gt;&#xA;&lt;p&gt;Именно Совунья научила Нюшу готовить, а других героев убираться и следить за домом.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Кар-Карыч</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/kar-karyich/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/kar-karyich/</link>
       <pubDate>Mon, 30 Sep 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/kar-karyich/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/kar-karyich/</guid>
       <description>&lt;h2 id=&#34;кар-карыч-персонаж&#34;&gt;Кар-Карыч. Персонаж&lt;/h2&gt;&#xA;&lt;p&gt;Кар-Карыч — один из главных персонажей мультипликационной франшизы «Смешарики», пожилой ворон.&lt;/p&gt;&#xA;&lt;p&gt;Птица с весьма интересным прошлым, бывший артист цирка и заядлый путешественник.&lt;/p&gt;&#xA;&lt;p&gt;Артистичен, влиятелен, уважаем окружающими.&lt;/p&gt;&#xA;&lt;p&gt;Кар-Карыч имеет тонкий музыкальный слух, любит петь, писать картины, играть на рояле, скрипке, гитаре.&lt;/p&gt;&#xA;&lt;p&gt;Имеет весьма оптимистичный настрой.&lt;/p&gt;&#xA;&lt;p&gt;Любит яркие праздники и разгульное веселье. В общении нередко приводит поучительные примеры из своего богатого прошлого. Учит товарищей правильно жить.&lt;/p&gt;&#xA;&lt;p&gt;Он любит удивлять друзей смешариков фокусами и трюками.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Пин</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/pin/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/pin/</link>
       <pubDate>Sun, 29 Sep 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/pin/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/pin/</guid>
       <description>&lt;h2 id=&#34;пин-персонаж&#34;&gt;Пин. Персонаж&lt;/h2&gt;&#xA;&lt;p&gt;Пин — персонаж мультсериала «Смешарики», антропоморфный пингвин с немецким акцентом.&lt;/p&gt;&#xA;&lt;p&gt;Пин — изобретатель, выросший в Антарктиде. Он держится в отдалении от других героев и предпочитает работать в ангаре над своими изобретениями. Из груды железа и мусора может собрать что угодно — от ракеты и снегохода до вечного двигателя и собственного робосына.&lt;/p&gt;&#xA;&lt;p&gt;Лучший друг Пина — Лосяш, с которым они обсуждают физику и другие научные дисциплины.&lt;/p&gt;&#xA;&lt;p&gt;Пин имеет глубокие познания в квантовой физике. Случайно изобрёл машину времени и машину для путешествий в параллельные миры. Часто цитирует классику русской литературы. Очень любит зиму и зимние виды спорта.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Копатыч</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/kopatyich/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/kopatyich/</link>
       <pubDate>Sat, 28 Sep 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/kopatyich/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/kopatyich/</guid>
       <description>&lt;h2 id=&#34;копатыч-персонаж&#34;&gt;Копатыч. Персонаж&lt;/h2&gt;&#xA;&lt;p&gt;Копатыч — персонаж мультсериала «Смешарики», добродушный хозяйственный медведь.&lt;/p&gt;&#xA;&lt;p&gt;Внешность: пухлый медведь с коричневой, близкой по цвету к рыжей шерстью, большим носом и серыми глазами. Почти всегда носит жёлтую шляпу от солнца.&lt;/p&gt;&#xA;&lt;p&gt;Характер: дружелюбен, простодушен и зачастую рассеян. Любит свой огород и трепетно за ним ухаживает: борется с некультурными растениями, стрижёт газон и строит новые ульи своим пчёлам. В свободное время не прочь сходить на рыбалку, поболеть за свою футбольную команду и попеть частушки под гармошку.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Лосяш</title>
-      <link>http://localhost:1313/webdev24-hugo/posts/losiash/</link>
+      <link>https://zhora1.github.io/webdev24-hugo/posts/losiash/</link>
       <pubDate>Fri, 27 Sep 2024 23:00:36 +0300</pubDate>
-      <guid>http://localhost:1313/webdev24-hugo/posts/losiash/</guid>
+      <guid>https://zhora1.github.io/webdev24-hugo/posts/losiash/</guid>
       <description>&lt;h2 id=&#34;лосяш-персонаж&#34;&gt;Лосяш. Персонаж&lt;/h2&gt;&#xA;&lt;p&gt;Лосяш — персонаж анимационного сериала «Смешарики». Учёный лось, чьи познания простираются во все области науки: естественные, гуманитарные, технические дисциплины, педагогика, философия, высокие технологии.&lt;/p&gt;&#xA;&lt;p&gt;Умеет делать астрологические и метеорологические прогнозы, правда далеко не всегда успешно. Обладает энциклопедическими знаниями обо всём на свете.&lt;/p&gt;&#xA;&lt;p&gt;Лосяш — лауреат Нобелевской премии «За долголетние исследования взаимосвязи между простой порядочностью и размерами рогового покрытия».&lt;/p&gt;&#xA;&lt;p&gt;Автор неисчислимого количества научных трудов, от статей в специализированных журналах до увесистых монографий. Изданные на разных языках его исследования занимают добрую половину полок его многочисленных книжных шкафов.&lt;/p&gt;</description>
     </item>
   </channel>

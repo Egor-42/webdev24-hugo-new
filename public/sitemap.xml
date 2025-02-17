@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/</loc>
     <lastmod>2024-10-06T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/introduction/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/introduction/</loc>
     <lastmod>2024-10-06T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/</loc>
     <lastmod>2024-10-06T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/krosh/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/krosh/</loc>
     <lastmod>2024-10-05T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/yozhik/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/yozhik/</loc>
     <lastmod>2024-10-04T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/nyusha/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/nyusha/</loc>
     <lastmod>2024-10-03T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/barash/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/barash/</loc>
     <lastmod>2024-10-02T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/sovunya/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/sovunya/</loc>
     <lastmod>2024-10-01T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/kar-karyich/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/kar-karyich/</loc>
     <lastmod>2024-09-30T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/pin/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/pin/</loc>
     <lastmod>2024-09-29T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/kopatyich/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/kopatyich/</loc>
     <lastmod>2024-09-28T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/posts/losiash/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/posts/losiash/</loc>
     <lastmod>2024-09-27T23:00:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/categories/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/webdev24-hugo/tags/</loc>
+    <loc>https://zhora1.github.io/webdev24-hugo/tags/</loc>
   </url>
 </urlset>
