@@ -1,0 +1,4 @@
+baseURL = 'https://zhora1.github.io/webdev24-hugo/'
+languageCode = 'ru'
+title = 'Смешарики. Персонажи'
+theme = 'ananke'
